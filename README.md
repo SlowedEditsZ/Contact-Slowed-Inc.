@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://instagram.com/slowed_edits_z" target="_blank">
+  <a href="https://discord.gg/WmbzGa6zej" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28%" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
