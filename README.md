@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/WmbzGa6zej" target="_blank">
-    <img src="https://share.google/9t3mXiB98bChq24yx" width="28%" alt="Discord" />
+    <img src="https://cdn.simpleicons.org/discord/270AA6" width="28%" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
